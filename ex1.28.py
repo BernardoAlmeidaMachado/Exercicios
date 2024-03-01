@@ -1,0 +1,1 @@
+nomes = ["Bernardo", "Eduardo", "Érico", "Zaine", "Maria"]
